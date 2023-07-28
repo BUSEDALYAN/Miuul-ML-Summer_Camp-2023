@@ -1,9 +1,9 @@
 ## ENCODING
 
 
-# Encoding is the process of converting information
+# Encoding is converting information
 # or data into a specific format or representation.
-# Basically, it is the process of converting information
+# Basically, it is converting information
 # or data from one type to another.
 # The purpose of encoding is to make data available for
 # storage, transmission or processing in an appropriate format.
@@ -273,7 +273,10 @@ def num_summary(dataframe, numerical_col, plot=False):
 for col in age_cols:
     num_summary(df, col, plot=True)
 
+
+
 # Numeric to Categorical
+
 # Binning
 
 ### Sorts the values of a variable from smallest
